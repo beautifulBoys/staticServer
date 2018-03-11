@@ -11,6 +11,28 @@ var data = {
       "desc": "这是一些业余时间做的PC端网站",
       "items": [
         {
+          "title": "旅游圈",
+          "time": "2017-12-10",
+          "href": "",
+          "img": "https://raw.githubusercontent.com/beautifulBoys/beautifulBoys.github.io/master/source/home/img/a18.jpg",
+          "site": {
+            "official": "",
+            "model": "../pc/tourism/web/index.html"
+          },
+          "content": "这个项目是一个包括PC端，移动端，小程序，后期还会实现安卓和IOS。算是一个学习的完整项目，该项目完全由自己规划，设计，编写，测试，部署完成的中性项目，收获良多。"
+        },
+        {
+          "title": "AIM 愛聊",
+          "time": "2017-10-16",
+          "href": "",
+          "img": "https://raw.githubusercontent.com/beautifulBoys/beautifulBoys.github.io/master/source/home/img/a17.jpg",
+          "site": {
+            "official": "",
+            "model": "../pc/vue-socket/index.html"
+          },
+          "content": "这个项目是完全仿写腾讯 TIM 的 web 应用。通过该应用学习了聊天室的搭建，一对一私聊的实现等。"
+        },
+        {
           "title": "后台管理系统",
           "time": "2017-04-16",
           "href": "",
